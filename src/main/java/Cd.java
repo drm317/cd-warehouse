@@ -21,4 +21,8 @@ public class Cd {
 	public int getStock() {
 		return stock;
 	}
+
+	public CdDescription getCdDescription() {
+		return cdDescription;
+	}
 }
